@@ -1,4 +1,4 @@
-# Internhip AndroidApp
+# Internship AndroidApp
 Apply to various Internship through app.
 
 ## Pages/Views ##
