@@ -30,3 +30,19 @@ http://swiftintern.com/thumbnails/{opportunity_id}
 ```
 http://swiftintern.com/internship/opportunity/{opportunity_id}.json
 ```
+
+### Fetching Students Profile ###
+At the starting of app make a call to Register method to create session then the data will be fetched
+```
+http://swiftintern.com/students.json
+```
+
+### Fetching Students Applications ###
+```
+http://swiftintern.com/students/applications.json
+```
+
+### Fetching Students Messages ###
+```
+http://swiftintern.com/students/messages.json
+```
