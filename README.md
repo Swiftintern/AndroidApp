@@ -2,7 +2,7 @@
 Apply to various Internship through app.
 
 ## Pages/Views ##
-- Register/Login Page for Students(preferebly through linkedin)
+- Register/Login Page for Students(through linkedin)
 - Home page to show and search internship.
 - Internship Opportunity details page to apply to internhsip, show info and company profile.
 - Student Profile Page to show its profile info and update info
