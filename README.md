@@ -10,6 +10,17 @@ Apply to various Internship through app.
 - Student Messages received
  
 ## API Request URL ##
+### Register/Login ###
+POST Request parameter
+- email
+- name
+- phone
+- city
+```
+http://swiftintern.com/app/student.json
+```
+
+
 ### Fetching and searching Opportunity ###
 GET Request parameter
 - query (text, the keyword to search)
