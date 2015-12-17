@@ -20,6 +20,15 @@ POST Request parameter
 http://swiftintern.com/app/student.json
 ```
 
+### UPdated Profile ###
+POST Request parameter
+- name
+- phone
+- action = saveUser
+```
+http://swiftintern.com/students/settings.json
+```
+
 
 ### Fetching and searching Opportunity ###
 GET Request parameter
