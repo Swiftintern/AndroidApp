@@ -20,7 +20,13 @@ POST Request parameter
 http://swiftintern.com/app/student.json
 ```
 
-### UPdated Profile ###
+### Get Complete Profile(after login) ###
+```
+http://swiftintern.com/students.json
+```
+
+
+### Update Profile ###
 POST Request parameter
 - name
 - phone
