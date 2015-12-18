@@ -35,6 +35,26 @@ POST Request parameter
 http://swiftintern.com/students/settings.json
 ```
 
+### Fetching and Searching College ###
+GET Request parameter
+- name
+- type = institute
+```
+http://swiftintern.com/organizations.json
+```
+
+
+### Adding or Editing Qualification ###
+POST Request parameter
+- institute(College name to be fetched from other url)
+- degree
+- major
+- gpa
+- passing_year
+- action = saveQual
+```
+http://swiftintern.com/students/qualification/{qualification_id}.json
+```
 
 ### Fetching and searching Opportunity ###
 GET Request parameter
