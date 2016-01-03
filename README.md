@@ -103,3 +103,18 @@ http://swiftintern.com/students/applications.json
 ```
 http://swiftintern.com/students/messages.json
 ```
+
+### Upload Resume PDF ###
+POST Request parameter
+- title(base64 encode of file)
+```
+http://swiftintern.com/app/upload.json
+```
+
+### APPLY Internship ###
+POST Request parameter
+- opportunity_id
+- resume_id
+```
+http://swiftintern.com/app/apply.json
+```
